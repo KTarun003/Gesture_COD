@@ -1,0 +1,28 @@
+So, the projects has these parts,
+
+Workflow - We will be working on Github and adding all the files required
+
+Externals - We will be making a glove, which will be having 3 colours (clr1, clr2, clr3) on (front, index, middle) 
+
+Here's how, the process will happen -
+1. the program will detect the motion of the colour through camera. (using opencv and numpy)
+2. Decide the action to take and hit the required key. (pyautogui, win32api, win32con)
+The brackets contain the modules to be used.
+
+The second action requires extensive use of low-level python language which is tricky to learn and will take some time to 
+implement it.
+So, lets now work on first one.
+First thing is obvious, you need to learn a little about opencv, ("Programming knowledge" channel on youtube is the best one)
+
+So, the files that I planned are - 
+1. motion_detect.py -  This file will detect the motion of the clr1 i.e. of the hand and return the x,y coordinates of 
+                       current position.
+
+2. finger_detect.py -  This will detect the presence clr2 and clr3 and return if they are detected
+
+More will be added after discussion.
+As I said before, the movement of mouse and pressing of keys in extremely low level task and needs to be studied. 
+I have added the links for the same in a separate file.
+Let's begin!!
+
+         
