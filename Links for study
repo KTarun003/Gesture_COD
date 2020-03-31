@@ -1,0 +1,22 @@
+Python tutorials -
+https://www.youtube.com/watch?v=bZ6NL59FMoc (a 9 hour extensive video)
+
+OpenCV tutorial - 
+https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
+(The best OpenCV Video Tutorials on the Internet)
+
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
+(As always the documentations help)
+
+
+Resources for win32api, win32con and pyautogui
+These are something that I don't understand till now (but I will be a few days)
+Neverthless, these are the links that I will be probably referring,
+https://automatetheboringstuff.com/chapter18/
+https://gist.github.com/chriskiehl/2906125
+https://stackoverflow.com/questions/53509117/python-key-press-simulate-interfere-with-system-keystrokes
+https://pythonprogramming.net/direct-input-game-python-plays-gta-v/
+https://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game
+https://gist.github.com/Aniruddha-Tapas/1627257344780e5429b10bc92eb2f52a
+I really don't know what each of those contain (I mean I don't understand)
+But be sure to reach out Google for any help
